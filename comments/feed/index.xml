@@ -9,14 +9,14 @@
 	<title>
 	Комментарии на сайте IUADA	</title>
 	<atom:link href="https://maxdm2021.github.io/IUADA-WP//comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://maxdm2021.github.io/IUADA-WP//</link>
+	<link>https://maxdm2021.github.io/IUADA-WP/</link>
 	<description>Supporting Ukrainian Farmers Together</description>
 	<lastBuildDate>Fri, 19 Jul 2024 20:18:21 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 	<item>
 		<title>
 		Комментарий к записи Привет, мир! (Комментатор WordPress)		</title>

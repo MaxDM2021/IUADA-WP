@@ -10,7 +10,7 @@
 <channel>
 	<title>Без рубрики &#8212; IUADA</title>
 	<atom:link href="https://maxdm2021.github.io/IUADA-WP//category/bez-rubriki/feed/" rel="self" type="application/rss+xml" />
-	<link>https://maxdm2021.github.io/IUADA-WP//</link>
+	<link>https://maxdm2021.github.io/IUADA-WP/</link>
 	<description>Supporting Ukrainian Farmers Together</description>
 	<lastBuildDate>Fri, 19 Jul 2024 20:18:21 +0000</lastBuildDate>
 	<language>ru-RU</language>
@@ -18,12 +18,12 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
 	<url>https://maxdm2021.github.io/IUADA-WP//wp-content/uploads/2024/07/1-2.png</url>
 	<title>Без рубрики &#8212; IUADA</title>
-	<link>https://maxdm2021.github.io/IUADA-WP//</link>
+	<link>https://maxdm2021.github.io/IUADA-WP/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
